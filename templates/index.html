@@ -55,7 +55,22 @@
                </form>
                   <a class="nav-link active fw-bold" href="{% block profile %}{% endblock profile %}"
                      data-bs-toggle="tooltip" data-bs-placement="bottom"
-                     title="Check your profile">{% block user %}{% endblock  %}</a>
+                     title="Check your profile">
+                  {% if user.role == "Student" %}
+                     <!-- Display student's profile image -->
+                     <img src="{{ user.student.photo.url|default:'/media/profile_pics/default_student.png' }}" alt="Student Profile Image" class="rounded-circle" width="35" height="35">
+                     <span class="ms-2 fw-bold text-white">{{ user.student.name }}</span>
+               
+                  {% elif user.role == "Faculty" %}
+                     <!-- Display faculty's profile image -->
+                     <img src="{{ user.faculty.photo.url|default:'/media/profile_pics/default_faculty.png' }}" alt="Faculty Profile Image" class="rounded-circle" width="35" height="35">
+                     <span class="ms-2 fw-bold text-white">{{ user.faculty.name }}</span>
+               
+                  {% else %}
+                     <!-- Fallback if the user role is not student or faculty -->
+                     <img src="/media/profile_pics/default_student.png" alt="Default Profile Image" class="rounded-circle" width="35" height="35">
+                     <span class="ms-2 fw-bold text-white">{{ user.username }}</span>
+                  {% endif %}</a>
             </div>
          </div>
       </nav>
