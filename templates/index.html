@@ -16,6 +16,9 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/fontawesome.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/brands.min.css">
       {{ form.media }}
    </head>
    <body>
@@ -23,32 +26,27 @@
       <nav class="navbar sticky-top navbar-expand-lg navbar-dark navbar-mod">
          <div class="container-fluid">
             <a class="navbar-brand fw-bold fs-5 px-2 py-1" href="/admin" target="_blank" data-bs-toggle="tooltip"
-               data-bs-placement="bottom" title="Access admin panel">E-Learning Management System</a>
+               data-bs-placement="bottom" title="Access admin panel"><img src="{% static 'images/elearn.png' %}" alt="sing up image" width="140" height="70"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01"
                aria-controls="navbarColor01" aria-expanded="true" aria-label="Toggle navigation">
             <span class=" navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarColor01">
                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                  <li class="nav-item">
-                     <a class="nav-link active fw-bold" aria-current="page" href="{% block courses %}{% endblock courses %}"
+                  <li class="nav-item me-3">
+                     <a class="nav-link active fw-bold" style="background-color: #007bff; border-radius: 5%;" aria-current="page" href="{% block courses %}{% endblock courses %}"
                         data-bs-toggle="tooltip" data-bs-placement="bottom" title="Course home page">Dashboard</a>
                   </li>
-                  <li class="nav-item">
-                     <a class="nav-link active fw-bold" aria-current="page" href="/departments"
+                  <li class="nav-item me-3">
+                     <a class="nav-link active fw-bold" style="background-color: #92006e; border-radius: 5%;" aria-current="page" href="/departments"
                         data-bs-toggle="tooltip" data-bs-placement="bottom" title="Course home page">Departments</a>
                   </li>
-                  <li class="nav-item">
-                     <a class="nav-link active fw-bold" href="{% block allCourses %}{% endblock %}" data-bs-toggle="tooltip"
+                  <li class="nav-item me-3">
+                     <a class="nav-link active fw-bold" style="background-color: #317203; border-radius: 5%;" href="{% block allCourses %}{% endblock %}" data-bs-toggle="tooltip"
                         data-bs-placement="bottom" title="Show all courses">Courses</a>
                   </li>
-                  <li class="nav-item">
-                     <a class="nav-link active fw-bold" href="{% url 'std_logout' %}" data-bs-toggle="tooltip"
-                        data-bs-placement="bottom" title="Log out">Log out</a>
-                  </li>
-                  
                </ul>
-               <form class="d-flex" action=" {% url 'search' %}" method="GET">
+               <form class="d-flex me-3" action=" {% url 'search' %}" method="GET">
                   <input id="searchIn" class="form-control me-2 searchbar" type="search" placeholder="Search courses" aria-label="Search"
                      name="q">
                   <button id="searchBtn" class="btn btn-outline-light" type="submit">Search</button>
@@ -71,6 +69,8 @@
                      <img src="/media/profile_pics/default_student.png" alt="Default Profile Image" class="rounded-circle" width="35" height="35">
                      <span class="ms-2 fw-bold text-white">{{ user.username }}</span>
                   {% endif %}</a>
+                     <a class="nav-link active fw-bold me-3" href="{% url 'std_logout' %}" style="background-color: #f23005; border-radius: 5%; padding: 8px 16px;" data-bs-toggle="tooltip"
+                        data-bs-placement="bottom" title="Log out">Log out <i class="fa fa-sign-out" aria-hidden="true"></i></a>
             </div>
          </div>
       </nav>
