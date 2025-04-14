@@ -186,8 +186,6 @@ Now the project should be running on http://127.0.0.1:8000/
 
 Login as admin and add some courses, teacher and students.
 
-Demo : https://youtu.be/NyL2ajUNxYk
-
 ## License
 
 [The MIT License (MIT)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/79413e875e114fa48510730c3313b59c8a94ecb5/LICENCE)
