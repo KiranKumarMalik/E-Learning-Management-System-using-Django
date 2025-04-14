@@ -39,7 +39,7 @@ Python Course
 ![Screenshot (70)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20194758.png)
 
 Post Announcement
-![Screenshot (71)](https://user-images.githubusercontent.com/87283264/194389301-da1f2cd5-11fd-469d-9137-380c4916e169.png)
+![Screenshot (71)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/33135561cd6a7d976094a8d57d13a828dc5056cf/ss/Screenshot%202025-04-14%20194940.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20195007.png)
 
 Edit Announcement
