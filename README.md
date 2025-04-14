@@ -52,6 +52,23 @@ Add Assignment
 
 Add Course Materials
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20200524.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200558.png)
+
+Create Discussion
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200829.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200858.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200922.png)
+
+Take Attendance
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200946.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201109.png)
+
+Add Quizzes
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201247.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201259.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201614.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201259.png)
+
 
 ## Run Locally
 
