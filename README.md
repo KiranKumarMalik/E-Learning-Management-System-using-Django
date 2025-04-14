@@ -135,7 +135,7 @@ git clone https://github.com/KiranKumarMalik/E-Learning-Management-System-using-
 2. Go to the project directory
 
 ```bash
-cd eLMS-SWE
+cd E-Learning-Management-System-using-Django
 ```
 
 3. Create a virtual environment and activate it (Windows)
