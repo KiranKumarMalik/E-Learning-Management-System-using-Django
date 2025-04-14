@@ -88,6 +88,21 @@ Course and Access the new courses
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20215115.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20215131.png)
 
+Student Python Course
+- Announcement, Assignments, Course Materials
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202126.png)
+
+Assignment Upload
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202602.png)
+
+Submitted assignment
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202617.png)
+
+Join discussion with faculty
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202718.png)
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202818.png)
+
+
 ## Run Locally
 
 1. Clone the project
