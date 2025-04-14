@@ -67,7 +67,8 @@ Add Quizzes
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201247.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201259.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201614.png)
-![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201259.png)
+![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5a2e61f329fc97af20d989b89296d9b10266310d/ss/Screenshot%202025-04-14%20211539.png)
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5a2e61f329fc97af20d989b89296d9b10266310d/ss/Screenshot%202025-04-14%20201846.png)
 
 
 ## Run Locally
