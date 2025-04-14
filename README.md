@@ -50,6 +50,9 @@ Add Assignment
 ![Screenshot (67)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20200132.png)
 ![Screenshot (68)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20200207.png)
 
+Download submitted assignment by student
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203129.png)
+
 Add Course Materials
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20200524.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200558.png)
@@ -63,13 +66,21 @@ Take Attendance
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20200946.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201109.png)
 
-Add Quizzes
+Add Quiz
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201247.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201259.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/758a1af860973d866df4167c9a767f476c678251/ss/Screenshot%202025-04-14%20201614.png)
 ![Screenshot (69)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5a2e61f329fc97af20d989b89296d9b10266310d/ss/Screenshot%202025-04-14%20211539.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5a2e61f329fc97af20d989b89296d9b10266310d/ss/Screenshot%202025-04-14%20201846.png)
 
+Submitted Quiz
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203115.png)
+
+Show Marks of Quiz
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203332.png)
+
+Publish Mark of Quiz
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203423.png)
 
 ## Student UI
 Student Login
@@ -108,7 +119,7 @@ Start Quiz
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202903.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202927.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202949.png)
-
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203004.png)
 
 ## Run Locally
 
