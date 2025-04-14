@@ -81,9 +81,9 @@ Dashboard
 ![Screenshot (63)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20202046.png)
 
 Course and Access the new courses
-Access courses:
-For Student: Access the course by using Studentkey of course
-For Faculty: Access the course by using Facultykey of course
+- Access courses:
+1. For Student: Access the course by using Studentkey of course
+2. For Faculty: Access the course by using Facultykey of course
 ![Screenshot (70)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20214725.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20215115.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/a19282b1acc4bc3ad7679003f9e0f63f15acfb2a/ss/Screenshot%202025-04-14%20215131.png)
