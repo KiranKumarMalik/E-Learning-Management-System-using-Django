@@ -26,9 +26,12 @@ Here you have to create/Add Department, Course, Faculty, Student
 
 ![Admin UI](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/432a48963d7121f42ebafaae53c9f4fc2690ea4e/ss/Screenshot%202025-04-14%20203715.png)
 
-## UI
+## Faculty UI
+Faculty Login
+username: Faculty id
+Password
+![login (65)](https://user-images.githubusercontent.com/87283264/194387627-47bc4506-5acb-46da-8ae0-70ea1e7e4eb8.png)
 
-![Screenshot (65)](https://user-images.githubusercontent.com/87283264/194387627-47bc4506-5acb-46da-8ae0-70ea1e7e4eb8.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/87283264/194389617-1d1118a5-e0a1-41a2-94b6-ef636e6a8d5e.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/87283264/194387776-552bdd11-9252-4be2-8139-10e0f270c09f.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/87283264/194389301-da1f2cd5-11fd-469d-9137-380c4916e169.png)
