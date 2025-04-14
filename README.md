@@ -121,6 +121,9 @@ Start Quiz
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202949.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/ab17ab822e6f7988a61ce1b23531690c9f538dd7/ss/Screenshot%202025-04-14%20203004.png)
 
+Published Marks
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5ee117d011bae6dcc62ee3cbc7db929fe4f1ab6e/ss/Screenshot%202025-04-14%20230738.png)
+
 ## Run Locally
 
 1. Clone the project
