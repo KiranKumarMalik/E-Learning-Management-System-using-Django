@@ -73,8 +73,8 @@ Add Quizzes
 
 ## Student UI
 Student Login
-username: Student id
-Password
+- username: Student id
+- Password
 ![login (65)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/f8d0f925083e2869ad5da2c431efa26def0071d7/ss/Screenshot%202025-04-14%20202030.png)
 
 Dashboard
