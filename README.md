@@ -129,7 +129,7 @@ Published Marks
 1. Clone the project
 
 ```bash
-git clone https://github.com/nz-m/eLMS-SWE.git
+git clone https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django.git
 ```
 
 2. Go to the project directory
@@ -190,4 +190,4 @@ Demo : https://youtu.be/NyL2ajUNxYk
 
 ## License
 
-[The MIT License (MIT)](https://github.com/nz-m/eLMS-SWE/blob/main/LICENCE)
+[The MIT License (MIT)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/79413e875e114fa48510730c3313b59c8a94ecb5/LICENCE)
