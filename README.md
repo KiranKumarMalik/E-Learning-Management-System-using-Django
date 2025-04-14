@@ -21,6 +21,11 @@ A learning management and online assessment system for academic education.
 4. Chart.js v3.9.1
 5. Animate.css 4.1.1
 
+## Admin UI
+Here you have to create/Add Department, Course, Faculty, Student
+
+![Admin UI](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/432a48963d7121f42ebafaae53c9f4fc2690ea4e/ss/Screenshot%202025-04-14%20203715.png)
+
 ## UI
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/87283264/194387627-47bc4506-5acb-46da-8ae0-70ea1e7e4eb8.png)
