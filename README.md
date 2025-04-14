@@ -71,6 +71,21 @@ Add Quizzes
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/5a2e61f329fc97af20d989b89296d9b10266310d/ss/Screenshot%202025-04-14%20201846.png)
 
 
+## Student UI
+Student Login
+username: Student id
+Password
+![login (65)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/f8d0f925083e2869ad5da2c431efa26def0071d7/ss/Screenshot%202025-04-14%20202030.png)
+
+Dashboard
+![Screenshot (63)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20194037.png)
+
+Course and Access the new courses
+Access courses:
+For Student: Access the course by using Studentkey of course
+For Faculty: Access the course by using Facultykey of course
+![Screenshot (70)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/4b595aabc3e14875fc9521c993a77df0f89fe5c4/ss/Screenshot%202025-04-14%20194758.png)
+
 ## Run Locally
 
 1. Clone the project
