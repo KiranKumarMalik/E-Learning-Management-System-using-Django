@@ -75,6 +75,7 @@ Add Quizzes
 Student Login
 - username: Student id
 - Password
+
 ![login (65)](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/f8d0f925083e2869ad5da2c431efa26def0071d7/ss/Screenshot%202025-04-14%20202030.png)
 
 Dashboard
@@ -101,6 +102,12 @@ Submitted assignment
 Join discussion with faculty
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202718.png)
 ![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/1e954f9d26f10628874d9ce9470214ff352b293e/ss/Screenshot%202025-04-14%20202818.png)
+
+Start Quiz
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202843.png)
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202903.png)
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202927.png)
+![Screenshot](https://github.com/KiranKumarMalik/E-Learning-Management-System-using-Django/blob/d9112baeab0e9a76eb2d400f5197c9aeb78a163b/ss/Screenshot%202025-04-14%20202949.png)
 
 
 ## Run Locally
